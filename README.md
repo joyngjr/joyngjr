@@ -1,6 +1,6 @@
 # Hello, I'm Joy! :cherry_blossom:
 
-i am a third year computer science student at the national university of singapore, where i have a focus in software engineering and database systems, and a minor in data engineering.
+i am a final year computer science student at the national university of singapore.
 
 <br>
 
