@@ -1,6 +1,6 @@
 # Hello, I'm Joy! :cherry_blossom:
 
-i am a final year computer science student at the national university of singapore.
+i am a recent computer science graduate from the national university of singapore.
 
 <br>
 
